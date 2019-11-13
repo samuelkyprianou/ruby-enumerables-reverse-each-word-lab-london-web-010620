@@ -4,3 +4,4 @@ arr.each do |b|
   b.reverse
 return b
 end
+end
