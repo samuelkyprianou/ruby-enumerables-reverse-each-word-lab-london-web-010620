@@ -4,5 +4,5 @@ new_arr = []
 arr.each do |b|
   new_arr << b.reverse
 end
-return new_arr.join
+return new_arr.join(' ')
 end
